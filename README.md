@@ -10,7 +10,7 @@ Security desk is a site that can be connected to a remote database with visits a
  - For packages, please execute: ```bash pip install -r requirements.txt```
 
  # How to get an access
- Request access to the database from your bank manager. To access you will need a host, port, engine, name, user and password. You need to keep this value-pair data in environment `` .env``` file.
+ Request access to the database from your bank manager. To access you will need a host, port, engine, name, user and password. You need to keep this value-pair data in environment ``` .env``` file.
 
 
  # How to launch

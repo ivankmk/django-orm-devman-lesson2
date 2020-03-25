@@ -33,7 +33,7 @@ PASSWORD_PROJECT=******
  ```
 
 # Debugging
- When you perform debugging of the site - set parameter DEBUG = 'True' in ```settings.py``` and set to 'False', before deploying.
+ When you perform debugging of the site - set parameter DEBUG = 'True' in ```settings.py``` and set to 'False', before deploying. Default value is ```False``` if other did not set in ``` .env``` .
 
 # Project Goals
 
